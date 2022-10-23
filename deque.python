@@ -1,0 +1,9 @@
+# importing the deque module  
+# from the collections library  
+from collections import deque  
+  
+# declaring the deque  
+fruit_list = deque(['guava', 'apple', 'strawberry', 'berry', 'lichi'])  
+  
+# printing the deque  
+print(fruit_list) 
